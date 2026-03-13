@@ -10,17 +10,14 @@ Hi I'm Jakob. I'm a current masters student studying Business Analytics at UW-Ma
 
 
 ## Featured Projects 
-### Project 1
-* Info
-* Info
+### [Machine Learning](https://colab.research.google.com/drive/1XmNXetsnktJ5eX4CEqDZ6HBM0X-X-Ry6?usp=sharing)
+* This project shows me using different machine learning algorithms to estimate the liklihood of an accident Based on different features of the road, as well as timing. 
 
-### Project 2
-* Info
-* Info
+### [Data Engineering](https://somup.com/cT6f0EPz8d) 
+* This video shows me using AWS to build a data pipeline. The architecture of this is using ETL processing using Amazon S3 for a data lake, AWS Glue for the ETL processing, data warehousing in Redshift, and finally using SageMaker for Machine Learning Algorithms. 
 
-### Project 3 
-* Info
-* Info
+### [Supply Chain Analysis](https://colab.research.google.com/drive/1LFQbIN30V5FwKx-xxsITxKVDxhdLWg93?usp=sharing)
+* This is analyzing a dataset analyzing for supply chains to find which suppliers are the riskiest. As well as showing where the revenue is coming from and how this should change.
 
 ## Connect with me
 * **LinkedIn:** [Jakob Noll](https://www.linkedin.com/in/jakobnoll/)

@@ -18,10 +18,19 @@ Hi I'm Jakob. I'm a current masters student studying Business Analytics at UW-Ma
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, sklearn, xgboost, tensorflow
 
 ### [Data Engineering](https://somup.com/cT6f0EPz8d) 
-* This video shows me using AWS to build a data pipeline. The architecture of this is using ETL processing using Amazon S3 for a data lake, AWS Glue for the ETL processing, data warehousing in Redshift, and finally using SageMaker for Machine Learning Algorithms. 
+**Description:** This video demostrates an AWS architecture designed for sclability and automation. I created a full-cycle pipeline that ingests raw data into S3, perform ETL tranformations via AWS Glue, and structures data for high performance querying in Redshift. This pipeline concludes using Sagemaker for Machine Learning to gain insights. 
+
+**Skills:** ETL, Cloud Warehousing, Schema Design, Predictive Modeling
+
+**Technology:** AWS, Glue, Redshift, SageMaker
 
 ### [Supply Chain Analysis](https://colab.research.google.com/drive/1LFQbIN30V5FwKx-xxsITxKVDxhdLWg93?usp=sharing)
-* This is analyzing a dataset analyzing for supply chains to find which suppliers are the riskiest. As well as showing where the revenue is coming from and how this should change.
+
+**Description:** This is a dataset from a supply chain company, and different aspects of each distributor. Such as the type of products, the revenue gained, as well delays, locations, and defect rates for their products. Using a number of these variables to calculate a *reliability index* to quantify how reliable each supplier is and weights the profitability as well. 
+
+**Skills:** data cleaning, data analysis, data visualization 
+
+**Technology:** Python, Pandas, Numpy, Matplotlib 
 
 ## Connect with me
 * **LinkedIn:** [Jakob Noll](https://www.linkedin.com/in/jakobnoll/)
